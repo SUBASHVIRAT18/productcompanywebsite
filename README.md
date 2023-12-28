@@ -1,4 +1,4 @@
-`````````````````````````````````````````# Web Design for a Software Product Company
+# Web Design for a Software Product Company
 
 ## AIM:
 
